@@ -1,4 +1,4 @@
-🎬 Intelligent Movie Recommender
+# 🎬 Intelligent Movie Recommender
 A Python-based movie recommendation system that leverages machine learning to provide personalized movie suggestions based on user preferences. This project demonstrates skills in data processing, similarity-based algorithms, and application development.
 📖 Overview
 This project implements a content-based movie recommendation system. It uses a dataset of movies and a precomputed similarity matrix to suggest movies similar to a user's input. The system is built as a web application using Streamlit, making it user-friendly and interactive.
